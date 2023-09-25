@@ -26,4 +26,41 @@ Input Output Visualization                                                      
 3                                                                                                                                Triangle area:
 -3                                                                                                                               S = a * h / 2 = 4 * 4 / 2 = 8
 
+02.Problem: Moving Bricks
+The next sample exam problem is to calculate how many trolleys courses are needed to move given 
+set of bricks (assuming the trolley has limited capacity).
+Problem Description
+Construction workers have to transfer a total of x bricks. Workers are w and work simultaneously. 
+They transport the bricks in trolleys, each with a capacity of m bricks. Write a program that reads the 
+integers x, w, and m, and calculates what is the minimum number of courses the workers need to do 
+to transport the bricks.
+Input
+On the console 3 integers are given, one per line:
+• The number of bricks x is read from the first line.
+300 Programming Basics with C#
+• The number of workers’ w is read from the second line
+• The capacity of the trolley m is read from the third line.
+All input numbers are integers in the range [1 … 1000].
+Output
+Print on the console the minimum number of courses needed to transport the bricks.
+Sample Input and Output
+Input Output Comments 
+120   2      We have 2 workers, each transporting 30 bricks per course. In total,
+2            workers are transporting 60 bricks per course. To transport 120 bricks,
+30           exactly 2 courses are needed.
+
+Input Output Comments 
+355   12     We have 3 workers, each transporting 10 bricks per course. In total, 
+3            workers are transporting 30 bricks per course. To transport 355 bricks, 
+10           exactly 12 courses are needed: 11 complete courses carry 330 bricks and 
+             the last 12th course carries the last 25 bricks.
+
+Input Output Comments 
+5     1      We have 5 workers, each transporting 30 bricks per course. In total,
+12           workers are transporting 150 bricks per course. In order to transport 5
+30           bricks, only 1 course is sufficient (although incomplete, with only 5 bricks).
+
+
+
+
 
