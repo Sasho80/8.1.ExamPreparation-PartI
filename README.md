@@ -60,6 +60,29 @@ Input Output Comments
 12           workers are transporting 150 bricks per course. In order to transport 5
 30           bricks, only 1 course is sufficient (although incomplete, with only 5 bricks).
 
+03.Problem: Point on a Segment
+The next sample exam problem is about checking whether given point stays inside or outside given 
+horizontal segment.
+Video: Point on a Segment
+Problem Description
+A horizontal segment is placed on a horizontal line, set with the x coordinates of both ends: first and
+second. A point is located on the same horizontal line and is set with its x coordinate. Write a program 
+that checks whether the point is inside or outside the segment and calculates the distance to the 
+nearest end of the segment.
+Input
+The console reads 3 integer numbers (one per line):
+• On the first line the number "first" is read – one end of the segment.
+• On the second line the number "second" is read – the other end of the segment.
+• On the third line the number "point" is read – the location of the point.
+All input numbers are integers in the range [-1000 … 1000].
+Output
+Print the result on the console:
+• On the first line, print "in" or "out" – whether the point is inside or outside the segment.
+• On the second line, print the distance from the point to the nearest end of the segment.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/2249a41a-80b7-4c28-ae95-fcdfcf367907)
+
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/b1d9ec76-b321-4ef2-ad69-82f3ac70f2fb)
 
 
 
