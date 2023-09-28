@@ -84,6 +84,27 @@ Sample Input and Output
 
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/b1d9ec76-b321-4ef2-ad69-82f3ac70f2fb)
 
+04.Problem: Point in a Figure
+The next sample exam problem is about checking whether given point stays inside or outside given 
+figure (see the image below).
+Problem Description
+Write a program that checks whether a point (with coordinates
+x and y) is inside or outside the figure, shown on the right.
+Input
+The console reads two integers (one per line): x and y.
+All input numbers are integers in the range [-1000 … 1000].
+Output
+Print on the console "in" or "out" – whether the point is inside or outside the figure (the outline is 
+inside).
+Sample Input and Output
+Input Output Input Output Input Output Input Output 
+8     in       6    in     11   out      11   out
+-5            -3           -5             2
+
+Hints and Guidelines
+To find out if the point is in the figure, we will divide the figure into 2 rectangles:
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/ca208a30-4a77-49a2-8669-88f42baf869a)
+A sufficient condition is the point to be located in one of them, in order to be in the figure.
 
 
 
