@@ -106,5 +106,26 @@ To find out if the point is in the figure, we will divide the figure into 2 rect
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/ca208a30-4a77-49a2-8669-88f42baf869a)
 A sufficient condition is the point to be located in one of them, in order to be in the figure.
 
+05.Problem: Date After 5 Days
+The next sample exam problem is about calculating the date 5 days after given date (day + month), 
+having in mind that it might appear in the next month.
+Problem Description
+There are two numbers d (day) and m (month) that form a date. Write a program that prints the date 
+that will be 5 days a particular date. For example, 5 days after 28.03 is the date 2.04. We assume that 
+the months: April, June, September and November have 30 days, February has 28 days, and the rest 
+have 31 days. Months to be printed with leading zero when they contain a single digit (e.g. 01, 08).
+Input
+The input is read from the console and consists of two lines:
+• On the first line we read an integer d in the range [1 … 31] – day. The number of the day does 
+not exceed the number of days in that month (e.g. 28 for February).
+• On the second line we read an integer m in the range [1 … 12] – month. Month 1 is January, 
+month 2 is February, …, month 12 is December. The month may contain a leading zero (e.g. 
+April may be written as 4 or 04).
+Output
+Print a single line containing the date after 5 days in the format day.month. The month must be a 2-
+digit number with a leading zero (if necessary). The day must be printed without leading zero.
+Chapter 8.1. Practical Exam Preparation – Part I 305
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/6f1ef185-f70c-4cbd-93f8-c2adb1c65503)
 
 
