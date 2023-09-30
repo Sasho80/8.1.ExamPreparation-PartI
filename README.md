@@ -126,6 +126,7 @@ Print a single line containing the date after 5 days in the format day.month. Th
 digit number with a leading zero (if necessary). The day must be printed without leading zero.
 Chapter 8.1. Practical Exam Preparation – Part I 305
 Sample Input and Output
-![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/6f1ef185-f70c-4cbd-93f8-c2adb1c65503)
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/e92337d6-a7f4-4e44-b8b9-90a7df078efb)
+
 
 
