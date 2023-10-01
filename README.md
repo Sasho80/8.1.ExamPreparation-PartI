@@ -128,5 +128,20 @@ Chapter 8.1. Practical Exam Preparation – Part I 305
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/e92337d6-a7f4-4e44-b8b9-90a7df078efb)
 
+06.Problem: Sums of 3 Numbers
+The next sample exam problem is about checking multiple cases to find out if from given 3 numbers 
+we can find two of them which sum up to the third of them.
+Problem Description
+There are 3 integers given. Write a program that checks if the sum of two of the numbers is equal to 
+the third one. For example, if the numbers are 3, 5 and 2, the sum of two of the numbers is equal to 
+the third one: 2 + 3 = 5.
+Input
+The console reads three integers, one per line. The numbers are in the range [1 … 1000].
+Output
+• Print a text line on the console containing the solution of the problem in the format 
+"a + b = c", where a, b and c are among the three input numbers and a ≤ b.
+• If the problem has no solution, print "No" on the console.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/4df5ea6d-2a77-48aa-8f43-3dfbde241dbc)
 
 
