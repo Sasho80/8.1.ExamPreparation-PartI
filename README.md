@@ -144,4 +144,19 @@ Output
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/4df5ea6d-2a77-48aa-8f43-3dfbde241dbc)
 
+07.Problem: Sums with Step of 3
+The next sample exam problem is about calculating 3 sums, holding the numbers from given sequence, 
+staying at certain positions with step 3.
+Problem Description
+We have given are n integers: a1, a2, …, an. Calculate the sums:
+• sum1 = a1 + a4 + a7 + … (the numbers are summed, starting from the first one with step of 3).
+• sum2 = a2 + a5 + a8 + … (the numbers are summed, starting from the second one with step 3).
+• sum3 = a3 + a6 + a9 + … (the numbers are summed, starting from the third one with step of 3).
+Input
+The input data is read from the console. The first line holds an integer n (0 ≤ n ≤ 1000). On the next
+n lines, we are given n integers in the range [-1000 … 1000]: a1, a2, …, an.
+Output
+On the console we should print 3 lines containing the 3 sums in a format such as in the example.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/aa16431f-2820-49ba-ab31-8f3d4fe5abca)
 
