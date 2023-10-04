@@ -160,3 +160,18 @@ On the console we should print 3 lines containing the 3 sums in a format such as
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/aa16431f-2820-49ba-ab31-8f3d4fe5abca)
 
+08.Problem: Sequence of Increasing Elements
+The next sample exam problem is about finding the longest increasing subsequence of given sequence 
+of integers.
+
+Problem Description
+A series of n numbers is given: a1, a2, …, an. Calculate the length of the longest increasing sequence
+of consecutive elements in the series of numbers.
+Input
+The input data is read from the console. The first line holds an integer n (0 ≤ n ≤ 1000). On the 
+following n lines, we are given n integers in the range [-1000 … 1000]: a1, a2, …, an.
+Output
+On the console we must print one number – the length of the longest increasing sequence.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/fdb11666-2634-48c6-b74b-547a284c9c9e)
+
