@@ -175,3 +175,15 @@ On the console we must print one number – the length of the longest increasing
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/fdb11666-2634-48c6-b74b-547a284c9c9e)
 
+09.Problem: Perfect Diamond
+The next sample exam problem is about using nested loops and calculations to print on the console a 
+diamond of given size, like the ones shown below in the examples.
+Problem Description
+Write a program that reads an integer n from the console and draws a perfect diamond with size n as 
+in the examples below.
+Input
+The input is an integer n within the range [1 … 1000].
+Output
+The diamond should be printed on the console as in the examples below.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/15c77926-99f1-4855-99d2-6d1a19b14bb0)
