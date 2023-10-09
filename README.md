@@ -187,3 +187,18 @@ Output
 The diamond should be printed on the console as in the examples below.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/15c77926-99f1-4855-99d2-6d1a19b14bb0)
+
+10.Problem: Rectangle with Stars in the Center
+The next sample exam problem is about using nested loops and calculations to print on the console a 
+rectangle of given size with stars in the middle, like the ones shown below in the examples.
+
+Problem Description
+Write a program that reads from the console an integer n and draws a rectangle with size n with two 
+asterisks is its center as in the examples below.
+Input
+The input is an integer n in the range [2 … 1000].
+Output
+The rectangle should be printed on the console as in the examples below.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/32c01420-b2b5-4767-910d-6463e48538e6)
+
