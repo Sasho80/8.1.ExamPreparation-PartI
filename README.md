@@ -202,3 +202,15 @@ The rectangle should be printed on the console as in the examples below.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/32c01420-b2b5-4767-910d-6463e48538e6)
 
+11.Problem: Increasing 4 Numbers
+The next sample exam problem is about using nested loops and program logic to generate all possible 
+combinations of 4 increasing numbers in given range.
+Problem Description
+For given pair of numbers a and b generate all four number n1, n2, n3, n4, for which
+a ≤ n1 < n2 < n3 < n4 ≤ b.
+In combinatorics such a selection of subset from given set (or range) is called "combination"
+(https://en.wikipedia.org/wiki/Combination), so the problem is essence is to generate all combinations 
+of 4 elements from given range of integers.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/9454c77d-eb13-4f6e-80ad-ad25ce688d7d)
+
