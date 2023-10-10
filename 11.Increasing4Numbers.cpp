@@ -11,7 +11,6 @@ int main() {
 					cout << i << " " << j << " " << k << " " << l << endl;
 					conter++;
 				}
-
 			}
 		}
 	}
