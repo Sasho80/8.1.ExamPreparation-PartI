@@ -214,3 +214,18 @@ of 4 elements from given range of integers.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/9454c77d-eb13-4f6e-80ad-ad25ce688d7d)
 
+12.Problem: Generating Rectangles
+The next sample exam problem is about using nested loops and program logic to generate all possible 
+rectangles, which have integer coordinates in given range and given minimum area.
+Problem Description
+By a given number n and a minimum area m, generate all possible rectangles with integer coordinates 
+in the range [-n…n] with an area of at least m. The generated rectangles must be printed in the 
+following format:
+• (left, top) (right, bottom) -> area
+Rectangles are defined using the top left and bottom right corner. The following inequalities are in 
+effect:
+• -n ≤ left < right ≤ n
+• -n ≤ top < bottom ≤ n
+Sample Input and Output
+![image](https://github.com/Sasho80/8.1.ExamPreparation-PartI/assets/7139995/95b8baf9-4f3c-418e-b2a8-29384da5b734)
+
